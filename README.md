@@ -17,8 +17,11 @@ Openpyxl
 ## 📂 Estrutura do Projeto
 excel-analise-de-dados/
 │
+
 ├── excel.py
+
 ├── README.md
+
 └── ocupacao.xlsx
 
 ## ▶️ Como utilizar
